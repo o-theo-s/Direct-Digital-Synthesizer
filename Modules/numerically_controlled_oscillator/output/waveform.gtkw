@@ -1,0 +1,68 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Sep 13 13:26:20 2019
+[*]
+[dumpfile] "C:\Users\alfat\Desktop\dds\numerically_controlled_oscillator\output\nco.vcd"
+[dumpfile_mtime] "Fri Sep 13 13:26:13 2019"
+[dumpfile_size] 5797
+[savefile] "C:\Users\alfat\Desktop\dds\numerically_controlled_oscillator\output\waveform.gtkw"
+[timestart] 270000
+[size] 1835 1057
+[pos] -1 -1
+*-11.138145 297000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] nco_tb.
+[treeopen] nco_tb.U5_nco_tb.
+[treeopen] nco_tb.U5_nco_tb.U3_opc.
+[sst_width] 197
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 314
+@28
+[color] 7
+nco_tb.sclk
+[color] 2
+nco_tb.reset
+[color] 2
+nco_tb.ss
+@200
+-
+@28
+[color] 3
+nco_tb.br
+nco_tb.U5_nco_tb.U3_opc.counter[2:0]
+nco_tb.U5_nco_tb.U3_opc.mode[1:0]
+@200
+-
+-Operation profile
+@22
+nco_tb.U5_nco_tb.U3_opc.U2_pa.freq[47:0]
+nco_tb.U5_nco_tb.U3_opc.U2_pa.acc[47:0]
+@200
+-
+@28
+[color] 7
+nco_tb.U5_nco_tb.U3_opc.clk
+@c00024
+nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+@28
+(0)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(1)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(2)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(3)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(4)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(5)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(6)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(7)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(8)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(9)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(10)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(11)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(12)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+(13)nco_tb.U5_nco_tb.U3_opc.U2_pa.phase[13:0]
+@1401200
+-group_end
+@28
+[color] 3
+nco_tb.U5_nco_tb.U4_pac.amplitude[11:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Sep 12 12:23:00 2019
+[*]
+[dumpfile] "C:\Users\alfat\Desktop\dds\serial_peripheral_interface\output\spi.vcd"
+[dumpfile_mtime] "Thu Sep 12 12:22:49 2019"
+[dumpfile_size] 1821
+[savefile] "C:\Users\alfat\Desktop\dds\serial_peripheral_interface\output\waveform.gtkw"
+[timestart] 0
+[size] 1835 1057
+[pos] -1 -1
+*-12.267853 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] spi_tb.
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 314
+@28
+[color] 7
+spi_tb.sclk
+[color] 2
+spi_tb.ss
+spi_tb.U1_spi_tb.counter[2:0]
+[color] 3
+spi_tb.U1_spi_tb.br
+@200
+-
+@28
+[color] 2
+spi_tb.mosi
+[color] 3
+spi_tb.U1_spi_tb.wordout[7:0]
+[color] 3
+spi_tb.U1_spi_tb.miso
+@200
+-
+@28
+[color] 2
+spi_tb.U1_spi_tb.load
+[color] 2
+spi_tb.U1_spi_tb.wordin[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

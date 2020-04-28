@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Sep 12 14:18:28 2019
+[*]
+[dumpfile] "C:\Users\alfat\Desktop\dds\phase_accumulator\output\phase_accumulator.vcd"
+[dumpfile_mtime] "Thu Sep 12 14:14:17 2019"
+[dumpfile_size] 1074
+[savefile] "C:\Users\alfat\Desktop\dds\phase_accumulator\output\waveform.gtkw"
+[timestart] 0
+[size] 1835 1057
+[pos] -9 -9
+*-11.373292 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] phase_accumulator_tb.
+[sst_width] 197
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 314
+@28
+[color] 7
+phase_accumulator_tb.U2_pa_tb.clk
+[color] 2
+phase_accumulator_tb.U2_pa_tb.reset
+@200
+-
+@28
+[color] 2
+phase_accumulator_tb.U2_pa_tb.mode[1:0]
+[color] 2
+phase_accumulator_tb.U2_pa_tb.fph
+@22
+phase_accumulator_tb.U2_pa_tb.word[4:0]
+@200
+-
+@22
+phase_accumulator_tb.temp[4:0]
+phase_accumulator_tb.U2_pa_tb.freq[4:0]
+@24
+phase_accumulator_tb.U2_pa_tb.acc[4:0]
+[color] 3
+phase_accumulator_tb.U2_pa_tb.phase[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,111 @@
+$date
+	Sat Sep 14 23:54:31 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module pac_tb $end
+$var wire 12 ! amplitude [11:0] $end
+$var reg 1 " clk $end
+$var reg 1 # eo $end
+$var reg 14 $ phase [13:0] $end
+$scope module U4_pac_tb $end
+$var wire 1 " clk $end
+$var wire 1 # eo $end
+$var wire 14 % phase [13:0] $end
+$var wire 2 & quadrant [1:0] $end
+$var wire 12 ' amplitude [11:0] $end
+$var reg 12 ( data [11:0] $end
+$var reg 1 ) eos $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x)
+bx (
+bx '
+b0 &
+b0 %
+b0 $
+0#
+0"
+bx !
+$end
+#5
+bz !
+bz '
+b100000000000 (
+0)
+1"
+#10
+0"
+1#
+#15
+b100000000000 !
+b100000000000 '
+1)
+1"
+#20
+0"
+#25
+b0 !
+b0 '
+b0 (
+b10 &
+1"
+b10111111111111 $
+b10111111111111 %
+#30
+0"
+#35
+b11111111111 !
+b11111111111 '
+b11111111111 (
+1"
+b10000000000000 $
+b10000000000000 %
+#40
+0"
+#45
+b11 &
+1"
+b11000000000000 $
+b11000000000000 %
+#50
+0"
+#55
+b10000100001 !
+b10000100001 '
+b10000100001 (
+1"
+b11010100100100 $
+b11010100100100 %
+#60
+0"
+#65
+b111111101001 !
+b111111101001 '
+b111111101001 (
+b1 &
+1"
+b1111010000001 $
+b1111010000001 %
+#70
+0"
+#75
+b110001110111 !
+b110001110111 '
+b110001110111 (
+1"
+b1011000001001 $
+b1011000001001 %
+#80
+0"
+#85
+1"
+#90
+0"

@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Sep 13 12:17:38 2019
+[*]
+[dumpfile] "C:\Users\alfat\Desktop\dds\phase_to_amplitude_converter\output\pac.vcd"
+[dumpfile_mtime] "Fri Sep 13 09:10:41 2019"
+[dumpfile_size] 1358
+[savefile] "C:\Users\alfat\Desktop\dds\phase_to_amplitude_converter\output\waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 727 93
+*-11.548505 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pac_tb.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+[color] 7
+pac_tb.clk
+[color] 2
+pac_tb.eo
+pac_tb.U4_pac_tb.eos
+@200
+-
+@24
+[color] 2
+pac_tb.U4_pac_tb.phase[13:0]
+@28
+pac_tb.U4_pac_tb.quadrant[1:0]
+@24
+pac_tb.U4_pac_tb.address[11:0]
+[color] 3
+pac_tb.U4_pac_tb.amplitude[11:0]
+[pattern_trace] 1
+[pattern_trace] 0

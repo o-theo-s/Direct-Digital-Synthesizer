@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Sep 05 16:53:57 2019
+[*]
+[dumpfile] "C:\Users\alfat\Desktop\dds\operation_profile_configurator\output\opc.vcd"
+[dumpfile_mtime] "Thu Sep 05 16:27:45 2019"
+[dumpfile_size] 2557
+[savefile] "C:\Users\alfat\Desktop\dds\operation_profile_configurator\output\waveform.gtkw"
+[timestart] 366000
+[size] 1000 600
+[pos] 441 176
+*-12.419888 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] opc_tb.
+[treeopen] opc_tb.U3_opc_tb.
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+[color] 7
+opc_tb.U3_opc_tb.sclk
+[color] 2
+opc_tb.reset
+[color] 2
+opc_tb.ss
+@200
+-
+@28
+[color] 3
+opc_tb.br
+opc_tb.U3_opc_tb.counter[2:0]
+@200
+-
+@28
+opc_tb.U3_opc_tb.U1_spi.buffer[7:0]
+@22
+opc_tb.U3_opc_tb.buffer[47:0]
+@28
+[color] 3
+opc_tb.miso
+[pattern_trace] 1
+[pattern_trace] 0

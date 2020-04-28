@@ -1,0 +1,197 @@
+$date
+	Sun Sep 15 14:15:25 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module spi_tb $end
+$var wire 8 ! word [7:0] $end
+$var wire 1 " miso $end
+$var wire 1 # br $end
+$var reg 1 $ load $end
+$var reg 1 % mosi $end
+$var reg 1 & sclk $end
+$var reg 1 ' ss $end
+$var reg 8 ( temp [7:0] $end
+$scope module U1_spi_tb $end
+$var wire 1 $ load $end
+$var wire 1 % mosi $end
+$var wire 1 & sclk $end
+$var wire 1 ' ss $end
+$var wire 8 ) wordin [7:0] $end
+$var wire 8 * wordout [7:0] $end
+$var wire 1 " miso $end
+$var wire 1 # br $end
+$var reg 8 + buffer [7:0] $end
+$var reg 3 , counter [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx ,
+bx +
+bz *
+b0 )
+b0 (
+1'
+0&
+0%
+0$
+z#
+z"
+bz !
+$end
+#5
+x#
+bx !
+bx *
+x"
+0'
+#10
+b1xxxxxxx !
+b1xxxxxxx *
+b1xxxxxxx +
+1%
+1&
+#20
+0&
+#30
+b1xxxxxx !
+b1xxxxxx *
+b1xxxxxx +
+1&
+0%
+#40
+0&
+#50
+b1xxxxx !
+b1xxxxx *
+b1xxxxx +
+1&
+#60
+0&
+#70
+b1001xxxx !
+b1001xxxx *
+b1001xxxx +
+1&
+1%
+#80
+0&
+#90
+b11001xxx !
+b11001xxx *
+b11001xxx +
+1&
+#100
+0&
+#110
+b111001xx !
+b111001xx *
+b111001xx +
+1&
+#120
+0&
+#130
+b111001x !
+b111001x *
+b111001x +
+1&
+0%
+#140
+0&
+#150
+1"
+b10111001 !
+b10111001 *
+b10111001 +
+1&
+1%
+#160
+0&
+#170
+0"
+b1011100 !
+b1011100 *
+b1011100 +
+1&
+0%
+b10010101 (
+b10010101 )
+1$
+#180
+0&
+#190
+b101110 !
+b101110 *
+b101110 +
+1&
+b0 (
+b0 )
+0$
+#200
+0&
+#210
+1"
+b10111 !
+b10111 *
+b10111 +
+1&
+#220
+0&
+#230
+b1011 !
+b1011 *
+b1011 +
+1&
+#240
+0&
+#250
+b101 !
+b101 *
+b101 +
+1&
+#260
+0&
+#270
+0"
+b10 !
+b10 *
+b10 +
+1&
+#280
+0&
+#290
+1"
+b1 !
+b1 *
+b1 +
+1&
+#300
+0&
+#310
+0"
+b0 !
+b0 *
+b0 +
+1&
+#320
+0&
+#330
+1&
+b10000000 (
+b10000000 )
+1$
+#340
+0&
+#350
+1&
+b0 (
+b0 )
+0$
+#360
+0&

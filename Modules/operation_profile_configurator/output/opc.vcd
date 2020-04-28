@@ -1,0 +1,245 @@
+$date
+	Fri Sep 13 00:03:21 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module opc_tb $end
+$var wire 14 ! phase [13:0] $end
+$var wire 1 " outr $end
+$var wire 1 # miso $end
+$var wire 1 $ br $end
+$var reg 1 % clk $end
+$var reg 1 & mosi $end
+$var reg 1 ' reset $end
+$var reg 1 ( sclk $end
+$var reg 1 ) ss $end
+$scope module U3_opc_tb $end
+$var wire 1 % clk $end
+$var wire 1 & mosi $end
+$var wire 48 * pa_word [47:0] $end
+$var wire 1 ' reset $end
+$var wire 1 ( sclk $end
+$var wire 1 ) ss $end
+$var wire 8 + word_read [7:0] $end
+$var wire 14 , phase [13:0] $end
+$var wire 1 " outr $end
+$var wire 1 # miso $end
+$var wire 1 $ br $end
+$var reg 48 - buffer [47:0] $end
+$var reg 3 . counter [2:0] $end
+$var reg 1 / fph $end
+$var reg 2 0 mode [1:0] $end
+$scope module U1_spi $end
+$var wire 1 1 load $end
+$var wire 1 & mosi $end
+$var wire 1 ( sclk $end
+$var wire 1 ) ss $end
+$var wire 8 2 wordin [7:0] $end
+$var wire 8 3 wordout [7:0] $end
+$var wire 1 # miso $end
+$var wire 1 $ br $end
+$var reg 8 4 buffer [7:0] $end
+$var reg 3 5 counter [2:0] $end
+$upscope $end
+$scope module U2_pa $end
+$var wire 1 % clk $end
+$var wire 1 / fph $end
+$var wire 2 6 mode [1:0] $end
+$var wire 1 ' reset $end
+$var wire 48 7 word [47:0] $end
+$var wire 14 8 phase [13:0] $end
+$var reg 48 9 acc [47:0] $end
+$var reg 48 : freq [47:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#3660
+$dumpvars
+b10000000000000000000000000000000000000001 :
+b1000000000000000001011100011110100000100 9
+b100000 8
+b10000000000000000000000000000000000000001 7
+b10 6
+b111 5
+b11111100 4
+b11111100 3
+b1 2
+11
+b10 0
+1/
+b110 .
+b1 -
+b100000 ,
+b11111100 +
+b10000000000000000000000000000000000000001 *
+0)
+0(
+0'
+1&
+0%
+0$
+0#
+0"
+b100000 !
+$end
+#3665
+1%
+#3670
+1$
+b11111110 +
+b11111110 3
+b0 5
+b11111110 4
+0%
+1(
+#3675
+1%
+#3680
+0%
+0(
+#3685
+1%
+#3690
+1#
+0$
+b1 +
+b1 3
+b1 5
+b1 4
+b0 2
+b0 -
+b111 .
+0%
+1(
+#3695
+1%
+#3700
+0%
+0(
+#3705
+1%
+#3710
+0#
+b10000000 +
+b10000000 3
+b10 5
+b10000000 4
+0%
+1(
+#3715
+1%
+#3720
+0%
+0(
+#3725
+1%
+#3730
+b11000000 +
+b11000000 3
+b11 5
+b11000000 4
+0%
+1(
+#3735
+1%
+#3740
+0%
+0(
+#3745
+1%
+#3750
+b11100000 +
+b11100000 3
+b100 5
+b11100000 4
+0%
+1(
+#3755
+1%
+#3760
+0%
+0(
+#3765
+1%
+#3770
+b11110000 +
+b11110000 3
+b101 5
+b11110000 4
+0%
+1(
+#3775
+1%
+#3780
+0%
+0(
+#3785
+1%
+#3790
+b11111000 +
+b11111000 3
+b110 5
+b11111000 4
+0%
+1(
+#3795
+1%
+#3800
+0%
+0(
+#3805
+1%
+#3810
+b11111100 +
+b11111100 3
+b111 5
+b11111100 4
+0%
+1(
+#3815
+1%
+#3820
+0%
+0(
+#3825
+1%
+#3830
+1$
+b11111110 +
+b11111110 3
+b0 5
+b11111110 4
+0%
+1(
+#3835
+1%
+#3840
+0%
+0(
+#3845
+1%
+#3850
+1#
+0$
+b11111111 +
+b11111111 3
+b1 5
+b11111111 4
+bz *
+bz 7
+b1 6
+01
+b1 0
+b0 .
+0%
+1(
+#3855
+1%
+#3860
+0%
+0(
